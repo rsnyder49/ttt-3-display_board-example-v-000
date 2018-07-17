@@ -9,7 +9,13 @@ def display_board
   puts "   |   |   "
 end         
 
-
+def display_board
+  print "   |   |   " 
+  puts "-----------"
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
+end 
 
 
    
