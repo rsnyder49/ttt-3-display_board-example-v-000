@@ -14,7 +14,7 @@ def display_board
   print "-----------"
   print "   |   |   "
   print "-----------"
-  puts "   |   |   "
+  print "   |   |   "
 end 
 
 
